@@ -1,0 +1,14 @@
+127.0.0.1 - - [10/Jan/2018:00:01:59 +0800] "POST /service/order/submit HTTP/1.0" 500 20061 http-bio-8087-exec-1 705
+127.0.0.1 - - [10/Jan/2018:00:04:07 +0800] "GET /cart/show.html HTTP/1.0" 200 20850 http-bio-8087-exec-1 701
+127.0.0.1 - - [10/Jan/2018:00:04:08 +0800] "GET /order/create.html HTTP/1.0" 200 47372 http-bio-8087-exec-2 39
+127.0.0.1 - - [10/Jan/2018:00:04:11 +0800] "POST /service/order/submit HTTP/1.0" 200 29 http-bio-8087-exec-3 1023
+127.0.0.1 - - [10/Jan/2018:00:04:11 +0800] "GET /order/success.html?id=624 HTTP/1.0" 500 25962 http-bio-8087-exec-4 116
+127.0.0.1 - - [10/Jan/2018:00:09:18 +0800] "GET /cart/show.html HTTP/1.0" 200 20850 http-bio-8087-exec-1 717
+127.0.0.1 - - [10/Jan/2018:00:09:20 +0800] "GET /order/create.html HTTP/1.0" 200 47372 http-bio-8087-exec-2 29
+127.0.0.1 - - [10/Jan/2018:00:09:23 +0800] "POST /service/order/submit HTTP/1.0" 200 29 http-bio-8087-exec-3 978
+127.0.0.1 - - [10/Jan/2018:00:09:24 +0800] "GET /order/success.html?id=625 HTTP/1.0" 200 7409 http-bio-8087-exec-4 1435
+127.0.0.1 - - [10/Jan/2018:00:09:24 +0800] "GET /css/purchase.base.2012.css HTTP/1.0" 200 13339 http-bio-8087-exec-5 27
+127.0.0.1 - - [10/Jan/2018:00:09:24 +0800] "GET /css/purchase.sop.css HTTP/1.0" 200 9885 http-bio-8087-exec-6 27
+127.0.0.1 - - [10/Jan/2018:00:09:24 +0800] "GET /js/jquery.cookie.js HTTP/1.0" 200 3121 http-bio-8087-exec-7 34
+127.0.0.1 - - [10/Jan/2018:00:09:24 +0800] "GET /js/base-2011.js HTTP/1.0" 200 29063 http-bio-8087-exec-8 40
+127.0.0.1 - - [10/Jan/2018:00:09:24 +0800] "GET /images/flow.gif HTTP/1.0" 200 818 http-bio-8087-exec-9 59
